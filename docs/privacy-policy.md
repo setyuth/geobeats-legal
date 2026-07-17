@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /privacy-policy.md
+permalink: /geobeats-legal/privacy-policy/
 ---
 
 # GeoBeats Privacy Policy

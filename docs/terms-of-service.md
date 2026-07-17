@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-permalink: /terms-of-service.md
+permalink: /geobeats-legal/terms-of-service/
 ---
 
 # GeoBeats Terms of Service
